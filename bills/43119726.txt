@@ -1,0 +1,21 @@
+	Welcome to Retail
+
+ Bill Number :43119726
+ Customer Name :Dipu Don
+ Phone Number :7894561236
+ =====================================
+ products		QTY	Price
+ =====================================
+ Hair Spray		1	190
+ Body Lotion		1	220
+ Rice 		8	1440
+ Daal		2	160
+ sugar		1	49
+ Milk 		2	100
+ Frooti		10	400
+ ------------------------------------
+ Cosmetic tax : 			Rs. 20.5
+ Grocery tax :			Rs. 164.9
+ Drinks tax :			Rs. 40.0
+ Total Bill :			Rs. 2784.4
+ ------------------------------------

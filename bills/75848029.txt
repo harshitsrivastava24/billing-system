@@ -1,0 +1,21 @@
+	Welcome to Retail
+
+ Bill Number :75848029
+ Customer Name :Akshit
+ Phone Number :7894561320
+ =====================================
+ products		QTY	Price
+ =====================================
+ Face Cream		1	120
+ Hair Gell		2	240
+ Rice 		10	1800
+ Wheat 		20	4800
+ sugar		1	49
+ Milk 		2	100
+ Maza		2	120
+ ------------------------------------
+ Cosmetic tax : 			Rs. 18.0
+ Grocery tax :			Rs. 664.9
+ Drinks tax :			Rs. 17.6
+ Total Bill :			Rs. 7929.5
+ ------------------------------------
